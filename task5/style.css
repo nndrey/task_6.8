@@ -1,0 +1,28 @@
+body {
+    background-image: url(..//img/more.jpg);
+}
+
+form {
+font-size: x-large;
+margin-top: 280px;
+}
+
+span,p {
+    color: azure;
+}
+
+p {
+    font-size: 22px;
+}
+
+button {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-color:lightslategray;
+    padding: 10px;
+}
+
+input {
+padding: 9px;
+}

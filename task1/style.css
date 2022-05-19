@@ -1,0 +1,17 @@
+p {
+    display: block;
+    text-align: center;
+    margin-top: 300px;
+    font-size: 42px;
+    color: aliceblue;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+body {
+    background-image: url(../img/fon2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}

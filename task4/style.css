@@ -1,0 +1,21 @@
+body {
+    background-image: url(..//img/старая-бумага_99.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 1400px 700px;
+    }
+
+    a {
+        font-size: 49px;
+        text-decoration: none;
+        color: black;
+        font-family: fantasy;
+        text-align: center;
+        align-items: center;
+        display: block;
+        margin-top: 280px;
+    }
+
+    a:hover {
+        color: white;
+    }

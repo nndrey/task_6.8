@@ -1,0 +1,18 @@
+body {
+    background-image: url(../img/fone4.jpg);
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: black;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+
+#divoll {
+    margin-top: 30px;
+    margin-left: 350px;
+}

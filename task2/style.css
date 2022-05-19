@@ -1,0 +1,23 @@
+body {
+    background-image: url(../img/fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-style: italic;
+    font-size: 38px;
+    margin-left: 40px;
+    text-align: center;
+    margin-top: 90px;
+    color: azure;
+    text-decoration: underline;
+}
+
+code {
+    color: ghostwhite;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
